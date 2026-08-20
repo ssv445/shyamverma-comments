@@ -1,6 +1,8 @@
 {
   "origins": [
     "https://shyamverma.com",
-    "http://shyamverma.localhost:1355"
+    "http://shyamverma.localhost:1355",
+    "https://readybytes.in",
+    "http://localhost:3011"
   ]
 }
